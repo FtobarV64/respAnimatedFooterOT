@@ -107,6 +107,14 @@ footer .wave#wave1 {
   animation: animateWave 4s linear infinite;
 }
 
+/* 14.- Set in the footer .wave#wave2 */
+footer .wave#wave2 {
+    z-index: 999;
+    opacity: 0.5;
+    bottom: 10px;
+    animation: animateWave_02 4s linear infinite;
+  }
+
 /* 13.- We add animateWave @keyframes */
 @keyframes animateWave {
   0% {
