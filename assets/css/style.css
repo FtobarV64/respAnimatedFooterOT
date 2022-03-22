@@ -43,3 +43,12 @@ footer .social_icon{
 footer .social_icon li{
     list-style: none;
 }
+
+/* 6.- Set in the footer, .social_icon, li: a */
+footer .social_icon li a{
+    font-size: 2em;
+    color: #fff;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+}
