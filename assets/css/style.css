@@ -24,4 +24,17 @@ footer{
     background: #3586ff;
     min-height: 100px;
     padding: 20px 50px;
+    /* Set in the center the icons added in de index page */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 4.- Set in the footer the class: social_icon */
+footer .social_icon{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
 }
