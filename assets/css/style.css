@@ -98,3 +98,12 @@ footer .wave{
     background: #f00 url(/assets/img/wave.png);
     background-size: 1000px 100px;
 }
+
+/* 12.- Set in the footer .wave#wave1 */
+footer .wave#wave1{
+    z-index: 1000;
+    opacity: 1;
+    bottom: 0;
+    animation: animateWave 4s linear infinite;
+}
+
