@@ -38,3 +38,8 @@ footer .social_icon{
     align-items: center;
     margin: 10px 0;
 }
+
+/* 5.- Set in the footer, .social_icon: li */
+footer .social_icon li{
+    list-style: none;
+}
