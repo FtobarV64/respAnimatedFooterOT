@@ -124,3 +124,13 @@ footer .wave#wave2 {
     background-position-x: 0px;
   }
 }
+
+/* 15.- We add animateWave_02 @keyframes */
+@keyframes animateWave_02 {
+    0% {
+      background-position-x: 0px;
+    }
+    100% {
+      background-position-x: 1000px;
+    }
+  }
