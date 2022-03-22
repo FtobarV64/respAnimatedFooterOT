@@ -75,3 +75,8 @@ footer .menu li a{
     text-decoration: none;
     opacity: 0.75;
 }
+
+/* 9.- Set in the footer .menu li a:hover */
+footer .menu li a:hover{
+    opacity: 1;
+}
