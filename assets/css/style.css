@@ -52,3 +52,8 @@ footer .social_icon li a{
     display: inline-block;
     transition: 0.5s;
 }
+
+/* 7.- Set in the footer, .social_icon, li: a:hover */
+footer .social_icon li a:hover{
+    transform: translateY(-10px);
+}
