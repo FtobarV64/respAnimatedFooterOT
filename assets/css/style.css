@@ -80,3 +80,12 @@ footer .menu li a{
 footer .menu li a:hover{
     opacity: 1;
 }
+
+/* 10.- Set in the footer p */
+footer p{
+    color: #fff;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
